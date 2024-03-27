@@ -1,7 +1,7 @@
 # Goldman-Sachs-Engineering-Job-Simulation-Forage
 Crack passwords and suggest security improvements as a Governance Analyst at Goldman Sachs.
 
-Task 1: Crack leaked password database.
+## Task 1: Crack leaked password database.
 Your job is to crack as many passwords as possible with available tools (e.g. use Hashcat).
 Here are your Task instructions:
 
@@ -12,7 +12,7 @@ Here are your Task instructions:
 
 Enter your memo. It should be about 400 words and explain your findings and conclusions of controls currently used by an organization to prevent successful cracking of passwords and potential uplifts that you would propose to existing controls with justifications.
 
-CHECK OUT THE SIMULATION HERE : [Reference Link](https://www.theforage.com/simulations/goldman-sachs/software-engineering-unei)
+## CHECK OUT THE SIMULATION HERE :  [Job Simulation Link](https://www.theforage.com/simulations/goldman-sachs/software-engineering-unei)
 
-CERTIFICATE OF COMPLETION : 
+## CERTIFICATE OF COMPLETION :
 ![Software Engineering Job Simulation - Goldman Sachs_page-0001](https://github.com/prajwalchapke055/Task-3-Snake-Game-using-Java/assets/122814333/3bf0b232-77ab-4847-8828-7b7ae7e9984a)
